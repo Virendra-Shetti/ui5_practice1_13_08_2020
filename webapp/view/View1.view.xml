@@ -5,6 +5,7 @@
 				<Page id="page" title="{i18n>title}">
 					<content>
 						<Label text="Signiwis UI5"></Label>
+								<Label text="hello"></Label>
 					</content>
 				</Page>
 			</pages>
