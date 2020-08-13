@@ -5,7 +5,8 @@
 				<Page id="page" title="{i18n>title}">
 					<content>
 						<Label text="Signiwis UI5"></Label>
-								<Label text="hello"></Label>
+						<Label text="hello"></Label>
+						<Label text="How R U"></Label>
 					</content>
 				</Page>
 			</pages>
